@@ -22,7 +22,7 @@ We create real-world frameworks and automation tools for modern engineering team
 
 | Repository | Description | Status |
 |-------------|-------------|---------|
-| [**arkeon-devstack**](https://github.com/ArkeonProject/arkeon-devstack) | Fullstack environment integrating backend, frontend, QA, and CI/CD. | 🚧 Active |
+| [**arkeon-devstack**](https://github.com/ArkeonProject/arkeon-devstack) | Fullstack environment integrating backend, frontend, QA, and CI/CD. | 🚧 In development |
 | [**arkeon-core**](https://github.com/ArkeonProject/arkeon-core) | QA Automation starter (Java + Selenium + Cucumber + Docker). | 🧪 In development |
 | [**arkeon-assets**](https://github.com/ArkeonProject/arkeon-assets) | Scripts, n8n flows, Docker templates, and reusable tools. | 🔜 Coming soon |
 | [**arkeon-site**](https://github.com/ArkeonProject/arkeon-site) | The official Arkeon landing page and documentation hub. | 📄 Planned |
