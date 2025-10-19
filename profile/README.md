@@ -43,12 +43,12 @@ We create real-world frameworks and automation tools for modern engineering team
 ---
 
 ## 📬 Connect
-- 🌐 Website: [arkeon.tech](https://arkeon.tech)
-- 🧠 Author: [David (LpzCloud)](https://github.com/LpzCloud)
+- 🌐 Website: In development
+- 🧠 Author: [David López](https://github.com/daviilpzdev)
 - 🧰 Organization: [github.com/ArkeonProject](https://github.com/ArkeonProject)
 
 ---
 
 <p align="center">
-  <sub>© 2025 Arkeon Project — Created by David LpzCloud. Licensed under MIT.</sub>
+  <sub>© 2025 Arkeon Project — Created by David López. Licensed under MIT.</sub>
 </p>
