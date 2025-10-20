@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArkeonProject/.github/main/profile/arkeon-logo.png" width="120" alt="Arkeon Logo"/>
+  <img src="https://raw.githubusercontent.com/ArkeonProject/.github/main/profile/arkeon-logo.png" width="200" alt="Arkeon Logo"/>
 </p>
 
 <h1 align="center">Arkeon Project</h1>
